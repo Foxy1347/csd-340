@@ -1,7 +1,6 @@
 #image-gallery{
     display: grid;
     grid-template-columns: auto auto auto;
-    grid-column-gap: 10px;
     padding: 5px;
     margin-top: 10%;
 }
