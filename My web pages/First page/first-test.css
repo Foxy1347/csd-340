@@ -1,12 +1,12 @@
 h1 {
     text-align: center;
-    color:blueviolet;
+    color:rgb(98, 44, 26);
     font-family: 'Permanent Marker', cursive;
 
 }
 body {
 color: white;
-text-shadow: 1px 1px black;
+/* text-shadow: 1px 1px black; */
 text-align:initial;
 text-decoration:dashed;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
