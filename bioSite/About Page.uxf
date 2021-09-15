@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>230</x>
+      <y>80</y>
+      <w>1010</w>
+      <h>710</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>230</x>
+      <y>80</y>
+      <w>1010</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>&lt;Colored Border&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>710</x>
+      <y>140</y>
+      <w>50</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>TeaLi</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>680</x>
+      <y>50</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>&lt;About Page&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>620</x>
+      <y>170</y>
+      <w>220</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>&lt;Example Art&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>460</x>
+      <y>370</y>
+      <w>560</w>
+      <h>320</h>
+    </coordinates>
+    <panel_attributes>&lt;Bio and interview&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>270</x>
+      <y>110</y>
+      <w>330</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>&lt;Background filled light complimenting color to art&gt;
+&lt;Ensure text is contrasted for visability&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>700</x>
+      <y>730</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Home</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

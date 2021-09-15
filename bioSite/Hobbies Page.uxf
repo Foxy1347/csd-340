@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>370</x>
+      <y>610</y>
+      <w>680</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>&lt;Inspiration Document&gt;
+&lt;At least one link that goes to an external website&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>200</x>
+      <y>120</y>
+      <w>1010</w>
+      <h>710</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>200</x>
+      <y>120</y>
+      <w>1010</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>&lt;Colored Border&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>680</x>
+      <y>180</y>
+      <w>50</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>TeaLi</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>650</x>
+      <y>90</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>&lt;Hobbies Page&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>270</x>
+      <y>260</y>
+      <w>260</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>&lt;Hobby Image&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>240</x>
+      <y>150</y>
+      <w>330</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>&lt;Background filled light complimenting color to art&gt;
+&lt;Ensure text is contrasted for visability&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>670</x>
+      <y>770</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Home</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>580</x>
+      <y>260</y>
+      <w>260</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>&lt;Hobby Image&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>890</x>
+      <y>260</y>
+      <w>260</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>&lt;Hobby Image&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
