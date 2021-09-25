@@ -5,7 +5,8 @@ Module 7.2 Assignment
 */
 body {
     font-family: 'Oswald',Verdana, Arial, sans-serif;
-    margin: 0px;
+    margin-bottom: 100px;
+    clear: both;
 }
 header {
     background-color: rgb(175, 59, 17);
@@ -39,9 +40,7 @@ h1 {
     color:rgb(175, 59, 17);
 }
 #container {
-    margin-top: 2%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 2%, 5%, 100px, 5%;
     padding: 10px;
 }
 .card {
@@ -62,25 +61,48 @@ h1 {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 #footer {
+    position: fixed;
     background-color: rgb(175, 59, 17);
-    position: absolute;
-    bottom: 0%;
+    left:0;
+    bottom: 0;
     width: 100%;
 }
-#footer p {
+#footer {
     color: white;
     font-weight: 400;
-    float: right;
     padding: 10px;
     font-style: italic;
 }
 #footer a:link {
     text-decoration: none;
     color: white;
+    float:right;
+    padding-right: 25px;
 }
 #footer a:visited {
     color: white;
 }
 #footer a:hover {
     text-decoration: underline;
+}
+.copyright{
+    float:left;
+}
+#movies{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+}
+#movies th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(175, 59, 17);
+    color: white;
+}
+#movies td{
+    border: 1px;
+    border-style: solid;
+    border-color: #ddd;
+    padding: 8px;
 }
