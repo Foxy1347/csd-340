@@ -18,6 +18,7 @@
     top:0;
     left:0;
     text-align: center;
+    font-family: 'Shadows Into Light', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h1{
     text-align: center;
@@ -30,37 +31,46 @@ h1{
 #hobbies{
     display: grid;
     grid-template-columns: auto auto auto;
-    padding: 5px;
-    margin-top: 10%;
+    padding: 15px;
+    margin-top: 5%;
     position: relative;
 }
 #experience{
     display: grid;
     grid-template-columns: auto auto auto;
-    padding: 5px;
-    margin-top: 10%;
+    padding: 15px;
+    margin-top: 5%;
     position: relative;
 }
-#contacts{
+#contact{
     position: relative;
+    padding-bottom: 15px;
+    text-align: center;
 }
-.grid-item1{
+.grid-item{
     border-radius: 15px;
     border-style: solid;
 }
-.grid-item2{
-    border-radius: 15px;
-    border-style: solid;
+p{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: 'Architects Daughter', cursive;
 }
-.grid-item3{
-    border-radius: 15px;
-    border-style: solid;
+h2{
+    text-align: center;
+    position: relative;
+    top:12%;
+    font-family: 'Shadows Into Light', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: rgb(75, 235, 139);
+    font-size: xx-large;
+    background-color: rgb(126, 41, 10);
 }
 h3{
     text-align: center;
-    font-family: 'Oswald',Verdana, Arial, sans-serif;
-    color: rgb(117, 117, 204);
+    font-family: 'Shadows Into Light', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     font-weight: 400;
+    font-size: xx-large;
+    color: rgb(117, 117, 204);
 }
 figure{
     text-align: center;
@@ -85,20 +95,4 @@ figure{
 }
 .footer a:hover {
     text-decoration: underline;
-}
-
-.card {
-    width: 30%;
-    display: flex;
-    flex-direction: column;
-    border: 1px red solid;
-}
-.header {
-    height: 30%;
-    background: red;
-    color: white;
-    text-align: center;
-}
-.container {
-    padding: 2px 16px;
 }
