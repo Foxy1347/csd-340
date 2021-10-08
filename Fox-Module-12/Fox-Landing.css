@@ -1,11 +1,48 @@
+/*
+* Shane Fox 10/7/2021
+* Assignment 12.3 Final
+*/
+#container-body{
+    width:100%;
+    height:100%;  
+    position:absolute;
+    top:0;
+    left:0;
+    }
+#header {
+    background-color: rgb(126, 41, 10);
+    color: rgb(75, 235, 139);
+    width:100%;
+    height: 10%;
+    position:absolute;
+    top:0;
+    left:0;
+    text-align: center;
+}
 h1{
     text-align: center;
+}
+#image{
+    position: relative;
+    align-content: center;
+    top: 12%;
 }
 #hobbies{
     display: grid;
     grid-template-columns: auto auto auto;
     padding: 5px;
     margin-top: 10%;
+    position: relative;
+}
+#experience{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 5px;
+    margin-top: 10%;
+    position: relative;
+}
+#contacts{
+    position: relative;
 }
 .grid-item1{
     border-radius: 15px;
@@ -18,4 +55,50 @@ h1{
 .grid-item3{
     border-radius: 15px;
     border-style: solid;
+}
+h3{
+    text-align: center;
+    font-family: 'Oswald',Verdana, Arial, sans-serif;
+    color: rgb(117, 117, 204);
+    font-weight: 400;
+}
+figure{
+    text-align: center;
+    font-family: 'Oswald',Verdana, Arial, sans-serif;
+}
+.footer {
+    position: absolute;
+    background-color: rgb(126, 41, 10);
+    left:0;
+    right:0;
+    width: 100%;
+    padding-bottom: 15px;
+}
+.footer a:link {
+    text-decoration: none;
+    color: white;
+    float:right;
+    padding-right: 25px;
+}
+.footer a:visited {
+    color: white;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 1px red solid;
+}
+.header {
+    height: 30%;
+    background: red;
+    color: white;
+    text-align: center;
+}
+.container {
+    padding: 2px 16px;
 }
